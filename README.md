@@ -5,4 +5,4 @@ Next.js, React, Typescript, Server Actions. Framer Motion, Infinite Scrolling
 
 ## Getting Started
 
-Click [animefusion.vercel.app](animefusion.vercel.app) with your browser to see the result.
+Click [here](https://animefusion.vercel.app) with your browser to see the result.
