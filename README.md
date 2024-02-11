@@ -5,4 +5,4 @@ Next.js, React, Typescript, Server Actions. Framer Motion, Infinite Scrolling
 
 ## Getting Started
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Click [Here](animefusion.vercel.app) with your browser to see the result.
