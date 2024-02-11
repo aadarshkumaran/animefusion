@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Footer() {
     return (
         <footer className="sm:px-16 py-4 px-8 flex items-center justify-between gap-2 flex-wrap bg-[#161921]">
-            <p className="text-white font-bold text-base">@2023 AnimeFusion</p>
+            <p className="text-white font-bold text-base">@2024 AnimeFusion</p>
             <Image
                 src="./logo.svg"
                 alt="logo"
